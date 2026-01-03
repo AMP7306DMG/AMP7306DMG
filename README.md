@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hi, I'm AMP7306DMG
 
-<!--
-**AMP7306DMG/AMP7306DMG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 About Me
+- Interested in **Cybersecurity & Programming**
+- Learning by **experimenting, testing, and documenting**
+- Focused on **ethical hacking concepts**, automation, and systems
 
-Here are some ideas to get you started:
+What You'll Find Here
+- 🔐 Cybersecurity labs & write-ups
+- 🧩 Python & automation scripts
+- 🧠 Notes on how systems work internally
+- ⚙️ Experiments with browsers, APIs, and protocols
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Goals
+- Build strong fundamentals
+- Share knowledge clearly
+- Grow step by step — from basics to advanced topics
+
+### ⚠️ Disclaimer  ###
+All projects are for **educational purposes only**.
